@@ -1,0 +1,23 @@
+@media screen and (min-width: 768px) {
+    .container {
+        background: green;
+        width: 80%;
+        padding: 25px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .container {
+        background: red;
+        width: 70%;
+        padding: 30px;
+    }
+}
+
+@media screen and (min-width: 2000px) {
+    .container {
+        background: blue;
+        width: 60%;
+        padding: 40px;
+    }
+}
